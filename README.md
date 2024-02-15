@@ -1,4 +1,4 @@
-#YouTube video to MP3 audio converter
+# YouTube video to MP3 audio converter
 
 Simple desktop application written purely in Python, that extracts audio from YouTube videos referenced by link. MP3 file with the audio is saved and can be played by the user.
 
