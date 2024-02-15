@@ -1,4 +1,4 @@
-#https://youtu.be/uXZkGWbyvcM?si=YnSXxCFgxZ_mfISE
+#main function
 
 import sys
 from window import App
